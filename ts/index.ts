@@ -1,0 +1,1 @@
+export { binarySearch as default } from './lib/binary-search'
